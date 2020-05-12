@@ -1,0 +1,13 @@
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\obj\Debug\CGLab2Tomog.csprojAssemblyReference.cache
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\obj\Debug\CGLab2Tomog.Properties.Resources.resources
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\obj\Debug\CGLab2Tomog.csproj.GenerateResource.cache
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\obj\Debug\CGLab2Tomog.csproj.CoreCompileInputs.cache
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\bin\Debug\CGLab2Tomog.exe.config
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\bin\Debug\CGLab2Tomog.exe
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\bin\Debug\CGLab2Tomog.pdb
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\bin\Debug\OpenTK.dll
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\bin\Debug\OpenTK.GLControl.dll
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\obj\Debug\CGLab2Tomog.csproj.CopyComplete
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\obj\Debug\CGLab2Tomog.exe
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\obj\Debug\CGLab2Tomog.pdb
+E:\repos\CG_Lab2_Tomog\CGLab2Tomog\CGLab2Tomog\obj\Debug\CGLab2Tomog.Form1.resources
