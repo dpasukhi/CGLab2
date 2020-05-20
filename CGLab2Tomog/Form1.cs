@@ -49,7 +49,7 @@ namespace CGLab2Tomog
             if (IsLoad)
             {
                 if (Quads.Checked)
-                    MyView.DrawQuads(MyLauer);
+                    MyView.DrawStripQuads(MyLauer);
                 else
                 {
                     if (NeedReload)
